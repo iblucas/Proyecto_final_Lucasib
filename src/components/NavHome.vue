@@ -8,7 +8,7 @@
     <div class="collapse navbar-collapse" id="navbarNav">
       <ul class="navbar-nav">
         <li class="nav-item">
-          <router-link to="/" class="nav-link active" aria-current="page">Home</router-link>
+          <router-link to="/" class="nav-link active" aria-current="page">Inicio</router-link>
         </li>
         <li class="nav-item">
           <router-link to="/serviciopsicologo" class="nav-link" >Servicios</router-link>
@@ -28,3 +28,17 @@
 <script setup>
 
 </script>
+
+<style>
+
+
+/* Barra de navegación celeste con letras grises */
+.navbar {
+  background-color: #00bfff; /* Color celeste */
+}
+
+.navbar .navbar-nav .nav-link {
+  color: gray; /* Letras grises */
+}
+
+</style>
