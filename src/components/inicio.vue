@@ -1,25 +1,28 @@
 <template>
-<div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
-  <div class="carousel-inner">
-    <div class="carousel-item active">
-      <img class="pareja" src="../assets/img/pareja.jpg" alt="ruptura de pareja">
-    </div>
-    <div class="carousel-item">
-      <img class="d-block w-100" src="../assets/img/amigos.jpg" alt="duelo">
-    </div>
-    <div class="carousel-item">
-      <img class="chica" src="../assets/img/chica.jpg" alt="mujer feliz">
-    </div>
+<div id="slider">  
+  <div class="slide" style="background:dodgerBlue;">
+    <img src="../assets/img/amigos.jpg">
   </div>
-  <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
-    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-    <span class="sr-only">Anterior</span>
-  </a>
-  <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
-    <span class="carousel-control-next-icon" aria-hidden="true"></span>
-    <span class="sr-only">Siguiente</span>
-  </a>
+  
+  <div class="slide" style="background:coral;">
+     <img src="../assets/img/pareja.jpg" >
+  </div>
+ 
+  <div class="slide" style="background:crimson;">
+    <img src="../assets/img/chica.jpg" >
+  </div>
+
+  
+  <!--Controlling arrows-->
+  <span class="controls" onclick="prevSlide(-1)" id="left-arrow"><i class="fa fa-arrow-left" aria-hidden="true"></i>
+</span>
+  <span class="controls" id="right-arrow" onclick="nextSlide(1)"><i class="fa fa-arrow-right" aria-hidden="true"></i>
+</span>
 </div>
+  <div id="dots-con">
+ <span class="dot"></span><span class="dot"></span><span class="dot"></span><span class="dot"></span>
+ </div>
+
 
 
 </template>
