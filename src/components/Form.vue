@@ -1,35 +1,26 @@
 <template>
 
-<form>
-  <div class="form-group">
-    <label for="exampleFormControlInput1">Email address</label>
-    <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="name@example.com">
-  </div>
-  <div class="form-group">
-    <label for="exampleFormControlSelect1">Example select</label>
-    <select class="form-control" id="exampleFormControlSelect1">
-      <option>1</option>
-      <option>2</option>
-      <option>3</option>
-      <option>4</option>
-      <option>5</option>
-    </select>
-  </div>
-  <div class="form-group">
-    <label for="exampleFormControlSelect2">Example multiple select</label>
-    <select multiple class="form-control" id="exampleFormControlSelect2">
-      <option>Ansiedad</option>
-      <option>Estres</option>
-      <option>Adicciones</option>
-      <option>Otros</option>
-    </select>
-  </div>
-  <div class="form-group">
-    <label for="exampleFormControlTextarea1">Example textarea</label>
-    <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
-  </div>
-  <button type="submit" class="btn btn-primary">Submit</button>
-</form>
+<div class="container">
+  <form action="/action_page.php">
+     <div class="form-group">
+      <label for="name">Nombre :</label>
+      <input type="text" class="form-control" name="name">
+    </div>
+    <div class="form-group">
+      <label for="dob">Apellido :</label>
+      <input type="text" class="form-control" name="dob">
+    </div>
+    <div class="form-group">
+      <label for="email">Email:</label>
+      <input type="email" class="form-control" name="email">
+    </div>
+    <div class="form-group">
+      <label for="address">Telefono :</label>
+      <input type="text" class="form-control" name="telefono">
+    </div>   
+      <button type="submit" class="btn" style="float:right">Enviar</button>
+     </form>
+</div>
 
 
 
@@ -37,6 +28,78 @@
 
 
 </template>
+
+
+<script>
+
+
+
+</script>
+
+
+
+
+
+
+
+
+<style>
+
+form {
+  min-width:300px;
+  max-width:400px;
+  padding:20px;
+  margin:0 auto;
+  background:#ffffff59; 
+  -webkit-box-shadow: 3px 3px 23px -9px rgba(0,0,0,0.86);
+  -moz-box-shadow: 3px 3px 23px -9px rgba(0,0,0,0.86);
+  box-shadow: 3px 3px 23px -9px rgba(0,0,0,0.86);
+}
+
+form input {
+  border:1px solid #0ea5aa;
+  border-radius:0 !important;
+  padding:5px 8px;
+  color:#444;
+}
+
+form button {
+  color:#0ea5aa;
+  background:#ffffffad;
+  border:1px solid #fff !important;
+  margin-top:20px;
+  border-radius:0px Important;
+}
+
+form button:hover {
+  background:#fff !important;
+}
+
+.pull-right {
+  float:right;
+}
+body {
+  background: #70e1f5;
+  background: -webkit-linear-gradient(to right, #ffd194, #70e1f5);  
+  background: linear-gradient(to right, #ffd194, #70e1f5);
+}
+
+
+</style>
+
+
+<script>
+
+
+
+</script>
+
+
+
+
+
+
+
 
 
 

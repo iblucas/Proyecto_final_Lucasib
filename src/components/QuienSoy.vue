@@ -2,13 +2,13 @@
  <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="oficina.jpg" class="d-block w-100" alt="autoestima psicologo">
+      <img src="../assets/img/oficina.jpg" class="d-block w-100" alt="autoestima psicologo">
     </div>
     <div class="carousel-item">
-      <img src="sesion.jpg" class="d-block w-100" alt="sesión psicologica mallorca">
+      <img src="../assets/img/sesion.jpg" class="d-block w-100" alt="sesión psicologica mallorca">
     </div>
     <div class="carousel-item">
-      <img src="divan.jpg" class="d-block w-100" alt="sebastian villagarcia terapia">
+      <img src="../assets/img/divan.jpg" class="d-block w-100" alt="sebastian villagarcia terapia">
     </div>
   </div>
   <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">

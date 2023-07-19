@@ -2,13 +2,13 @@
 <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img class="pareja" src="pareja.jpg" alt="ruptura de pareja">
+      <img class="pareja" src="../assets/img/pareja.jpg" alt="ruptura de pareja">
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100" src="amigos.jpg" alt="duelo">
+      <img class="d-block w-100" src="../assets/img/amigos.jpg" alt="duelo">
     </div>
     <div class="carousel-item">
-      <img class="chica" src="chica.jpg" alt="mujer feliz">
+      <img class="chica" src="../assets/img/chica.jpg" alt="mujer feliz">
     </div>
   </div>
   <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
