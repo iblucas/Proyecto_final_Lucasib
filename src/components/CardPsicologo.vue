@@ -2,8 +2,7 @@
 
 <div class="card bg-dark text-white">
   <img src="../assets/img/escucharte.png" class="card-img" alt="psicologia">
-  <div class="card-img-overlay">
-    
+  <div class="card-img-overlay"> 
   </div>
 </div>
 
@@ -48,13 +47,20 @@
       <img src= "../assets/img/adicciones.jpg" class="card-img-top" alt="adicciones mallorca">
       <div class="card-body">
         <h5 class="card-title">Psicologo experto en Adicciones</h5>
-        <p class="card-text">La psicología de las adicciones es la rama de la psicología clínica que busca ayudar a las personas que padecen una adicción y que quieren aprender a vivir sin ella. Un psicólogo especialista en adicciones cuenta con una formación adecuada para tratar las adicciones y tenemos herramientas científicamente validadas y profundamente estudiadas mediante la experiencia y los conocimientos universitarios en el campo de las adicciones.</p>
+        <p class="card-text">La psicología de las adicciones es la rama de la psicología clínica que busca ayudar a las personas que padecen una adicción y que quieren aprender a vivir sin ella. Un psicólogo especialista en adicciones cuenta con una formación adecuada para tratar las adicciones y tenemos herramientas científicamente validadas.</p>
       </div>
     </div>
   </div>
 </div>
 
-<br>
+
+<div class="card bg-dark text-white">
+  <img src="../assets/img/cita.png" class="card-img" alt="salud mental">
+  <div class="card-img-overlay"> 
+  </div>
+</div>
+
+
 
 </template>
 
