@@ -17,7 +17,7 @@
     <div class="form-group">
       <label for="address">Telefono :</label>
       <input type="text" class="form-control" name="telefono">
-    </div>   
+    </div>
       <button type="submit" class="btn" style="float:right">Enviar</button>
      </form>
 </div>
