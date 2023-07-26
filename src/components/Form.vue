@@ -1,26 +1,7 @@
 <template>
 
-<div class="container">
-  <form action="/action_page.php">
-     <div class="form-group">
-      <label for="name">Nombre :</label>
-      <input type="text" class="form-control" name="name">
-    </div>
-    <div class="form-group">
-      <label for="dob">Apellido :</label>
-      <input type="text" class="form-control" name="dob">
-    </div>
-    <div class="form-group">
-      <label for="email">Email:</label>
-      <input type="email" class="form-control" name="email">
-    </div>
-    <div class="form-group">
-      <label for="address">Telefono :</label>
-      <input type="text" class="form-control" name="telefono">
-    </div>
-      <button type="submit" class="btn" style="float:right">Enviar</button>
-     </form>
-</div>
+
+
 
 
 
