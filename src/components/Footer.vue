@@ -17,8 +17,8 @@
                         <div class="single-cta">
                             <i class="fas fa-phone"></i>
                             <div class="cta-text">
-                                <h4>Call us</h4>
-                                <span>9876543210 0</span>
+                                <h4>Telefono</h4>
+                                <span>609672396</span>
                             </div>
                         </div>
                     </div>
@@ -26,8 +26,8 @@
                         <div class="single-cta">
                             <i class="far fa-envelope-open"></i>
                             <div class="cta-text">
-                                <h4>Mail us</h4>
-                                <span>mail@info.com</span>
+                                <h4>Email</h4>
+                                <span>sebastian.villagarcia@cop.enter-to-class=""</span>
                             </div>
                         </div>
                     </div>
@@ -41,11 +41,10 @@
                                 <a href="index.html"><img src="https://i.ibb.co/QDy827D/ak-logo.png" class="img-fluid" alt="logo"></a>
                             </div>
                             <div class="footer-text">
-                                <p>Lorem ipsum dolor sit amet, consec tetur adipisicing elit, sed do eiusmod tempor incididuntut consec tetur adipisicing
-                                elit,Lorem ipsum dolor sit amet.</p>
+                                <p>Aquí tienes un espacio seguro en el que podrás expresarte y preguntar lo que necesites, para poder decidir con calma tu siguiente paso.</p>
                             </div>
                             <div class="footer-social-icon">
-                                <span>Follow us</span>
+                                <span>Redes Sociales</span>
                                 <a href="#"><i class="fab fa-facebook-f facebook-bg"></i></a>
                                 <a href="#"><i class="fab fa-twitter twitter-bg"></i></a>
                                 <a href="#"><i class="fab fa-google-plus-g google-bg"></i></a>
@@ -55,29 +54,24 @@
                     <div class="col-xl-4 col-lg-4 col-md-6 mb-30">
                         <div class="footer-widget">
                             <div class="footer-widget-heading">
-                                <h3>Useful Links</h3>
+                                <h3>Información</h3>
                             </div>
                             <ul>
                                 <li><a href="#">Home</a></li>
-                                <li><a href="#">about</a></li>
-                                <li><a href="#">services</a></li>
-                                <li><a href="#">portfolio</a></li>
-                                <li><a href="#">Contact</a></li>
-                                <li><a href="#">About us</a></li>
-                                <li><a href="#">Our Services</a></li>
-                                <li><a href="#">Expert Team</a></li>
-                                <li><a href="#">Contact us</a></li>
-                                <li><a href="#">Latest News</a></li>
+                                <li><a href="#">Servicios</a></li>
+                                <li><a href="#">Constacto</a></li>
+                                <li><a href="#">Sebastian Villagarcia</a></li>
+                               
                             </ul>
                         </div>
                     </div>
                     <div class="col-xl-4 col-lg-4 col-md-6 mb-50">
                         <div class="footer-widget">
                             <div class="footer-widget-heading">
-                                <h3>Subscribe</h3>
+                                <h3>Subscribirse</h3>
                             </div>
                             <div class="footer-text mb-25">
-                                <p>Don’t miss to subscribe to our new feeds, kindly fill the form below.</p>
+                                <p>Suscribete a nuestra newsletter</p>
                             </div>
                             <div class="subscribe-form">
                                 <form action="#">
@@ -95,17 +89,16 @@
                 <div class="row">
                     <div class="col-xl-6 col-lg-6 text-center text-lg-left">
                         <div class="copyright-text">
-                            <p>Copyright &copy; 2018, All Right Reserved <a href="https://codepen.io/anupkumar92/">Anup</a></p>
+                            <p>Copyright &copy; 2023, Todos los derechos reservados Lucas Ibar Basaldua<a href="https://codepen.io/anupkumar92/">Anup</a></p>
                         </div>
                     </div>
                     <div class="col-xl-6 col-lg-6 d-none d-lg-block text-right">
                         <div class="footer-menu">
                             <ul>
                                 <li><a href="#">Home</a></li>
-                                <li><a href="#">Terms</a></li>
-                                <li><a href="#">Privacy</a></li>
-                                <li><a href="#">Policy</a></li>
-                                <li><a href="#">Contact</a></li>
+                                <li><a href="#">Política de Privacidad</a></li>
+                                <li><a href="#">Politica de Cookies</a></li>
+                                <li><a href="#">Contacto</a></li>
                             </ul>
                         </div>
                     </div>
@@ -223,7 +216,7 @@ ul {
 }
 .footer-widget ul li {
   display: inline-block;
-  float: left;
+  float:left;
   width: 50%;
   margin-bottom: 12px;
 }
