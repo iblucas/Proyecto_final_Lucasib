@@ -19,6 +19,9 @@
         <li class="nav-item">
           <router-link to="/sebastianvillagarcia" class="nav-link">¿Quien soy?</router-link>
         </li>
+        <li class="nav-item">
+          <router-link to="/sebastianvillagarcia" class="nav-link">LOGIN</router-link>
+        </li>
       </ul>
     </div>
   </div>
