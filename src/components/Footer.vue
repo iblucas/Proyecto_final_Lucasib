@@ -8,8 +8,8 @@
                         <div class="single-cta">
                             <i class="fas fa-map-marker-alt"></i>
                             <div class="cta-text">
-                                <h4>Find us</h4>
-                                <span>1010 Avenue, sw 54321, chandigarh</span>
+                                <h4>Ubicación</h4>
+                                <span>C/ Reina Esclaramuda 5, 3 A - -Mallorca,Islas Baleares</span>
                             </div>
                         </div>
                     </div>
@@ -38,7 +38,7 @@
                     <div class="col-xl-4 col-lg-4 mb-50">
                         <div class="footer-widget">
                             <div class="footer-logo">
-                                <a href="index.html"><img src="https://i.ibb.co/QDy827D/ak-logo.png" class="img-fluid" alt="logo"></a>
+                                <a href="index.html"><img src="../assets/img/logotipo.png" class="img-fluid" alt="logo"></a>
                             </div>
                             <div class="footer-text">
                                 <p>Aquí tienes un espacio seguro en el que podrás expresarte y preguntar lo que necesites, para poder decidir con calma tu siguiente paso.</p>
