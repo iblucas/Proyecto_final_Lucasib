@@ -31,7 +31,7 @@
 <style>
 
 
-*,
+*
 *:before,
 *:after {
   padding: 0;
