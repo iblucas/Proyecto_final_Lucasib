@@ -1,5 +1,6 @@
 <template>
 <NavHome/>
+<recomendacion/>
 <Form/>
 <Footer/>
 
@@ -8,6 +9,7 @@
 <script setup>
 import NavHome from "@/components/NavHome.vue"
 import Form from "@/components/Form.vue"
+import recomendacion from "@/components/recomendacion.vue"
 import Footer from "@/components/Footer.vue"
 
 
