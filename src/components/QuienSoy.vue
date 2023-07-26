@@ -20,6 +20,20 @@
     <span class="visually-hidden">Siguiente</span>
   </button>
 </div>
+
+
+
+<div>
+
+
+
+
+
+
+
+
+
+</div>
   
 </template>
 

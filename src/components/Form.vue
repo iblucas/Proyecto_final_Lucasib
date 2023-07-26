@@ -2,7 +2,7 @@
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <main>
-<!-- <div class="text"><p>Para mais informações sobre os nossos cursos e unidades, preencha seus dados ao lado e entraremos em contato. Também enviaremos materiais de apoio para que você aproveite nossos conteúdos.</p></div>v -->
+
 <div class="container"> 
   <form id="contact" action="" method="post">
     <h3>QUEREMOS ESCUCHARTE</h3>
