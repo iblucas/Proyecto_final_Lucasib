@@ -1,15 +1,8 @@
 <template>
+  
 
-<!DOCTYPE html>
-<html lang="en" >
-<head>
-  <meta charset="UTF-8">
-  <title>CodePen - Botones  Redes Sociales</title>
-  <link rel="stylesheet" href="./style.css">
-  <script src="https://kit.fontawesome.com/33657cb95f.js" crossorigin="anonymous"></script>
 
-</head>
-<body>
+
 <!-- partial:index.partial.html -->
 <div class="cotenido">
     <input type="checkbox" id="btn-mas">
@@ -30,8 +23,8 @@
 </div>
 
   
-</body>
-</html>
+
+
 
 
 </template>
@@ -172,3 +165,10 @@ body {
 
 
 </style>
+
+<script>
+
+
+
+
+</script>

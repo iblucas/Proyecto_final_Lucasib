@@ -6,12 +6,12 @@
   <div class="shape"></div>
 </div>
 <form>
-  <h3>Login Here</h3>
+  <h3></h3>
 
-  <label for="username">Username</label>
+  <label for="username">Nombre</label>
   <input type="text" placeholder="Email or Phone" id="username">
 
-  <label for="password">Password</label>
+  <label for="password">Contraseña</label>
   <input type="password" placeholder="Password" id="password">
 
   <button>Log In</button>

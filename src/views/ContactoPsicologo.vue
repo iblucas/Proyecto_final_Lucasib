@@ -3,6 +3,7 @@
 <Contacto/>
 <recomendacion/>
 <Form/>
+<whatssap/>
 <Footer/>
 
 </template>
@@ -12,6 +13,7 @@ import NavHome from "@/components/NavHome.vue"
 import Form from "@/components/Form.vue"
 import Contacto from "@/components/Contacto.vue"
 import recomendacion from "@/components/recomendacion.vue"
+import whatssap from "@/components/whatssap.vue"
 import Footer from "@/components/Footer.vue"
 
 </script>
