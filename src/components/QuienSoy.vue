@@ -21,31 +21,34 @@
   </button>
 </div>
 
-<div class="card mb-3" style="max-width: 540px;">
-  <div class="row g-0">
-    <div class="col-md-4">
-      <img src="../assets/img/sebastian.jpeg" class="img-fluid rounded-start" alt="...">
-    </div>
-    <div class="col-md-8">
-      <div class="card-body">
-        <h5 class="card-title">Card title</h5>
-        <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-        <p class="card-text"><small class="text-body-secondary">Last updated 3 mins ago</small></p>
-      </div>
-    </div>
+
+<br>
+<div class="card mb-3">
+  <img src="../assets/img/psicologo.jpg" class="card-img-top" alt=" cv sebastian villagarcia">
+  <div class="card-body">
+    <h5 class="card-title">SEBASTIÁN VILLAGARCIA</h5>
+    <p class="card-text"> Título universitario y universidad:
+
+Máster en Psicología General Sanitaria
+
+Disponemos de:
+
+Seguro de Responsabilidad Civil
+
+Áreas profesionales:
+
+Clínica y salud
+
+Terapias:
+
+Conductista
+Cognitiva
+Sistémica
+ACT o analítica funcional
+.</p>
   </div>
 </div>
-
 <div>
-
-
-
-
-
-
-
-
-
 </div>
   
 </template>

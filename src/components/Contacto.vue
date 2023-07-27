@@ -23,6 +23,9 @@
 </div>
 
 
+
+
+
 </template>
 
 
@@ -38,7 +41,41 @@
 </script>
 
 <style>
+html, body {
+  height: 100%;
+}
 
+.row {
+  height: 100%;
+  align-items: center;
+}
+
+#pricing {
+  height: 100%;
+  padding: 100px;
+  text-align: center;
+}
+
+.card {
+  border: 1px solid rgb(27, 137, 211);
+}
+
+.card-header {
+  color: white;
+  background-color: rgb(27, 137, 211);
+}
+
+.pricing-column {
+  padding: 3% 2%;
+}
+
+.btn-dark {
+  background-color: rgb(27, 137, 211);
+}
+
+.btn-dark:hover {
+  background-color: #303331;
+}
 
 
 

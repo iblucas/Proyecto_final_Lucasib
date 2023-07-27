@@ -2,18 +2,17 @@
 <NavHome/>
 <Contacto/>
 <recomendacion/>
+<Precios/>
 <Form/>
-<whatssap/>
 <Footer/>
 
 </template>
 
 <script setup>
 import NavHome from "@/components/NavHome.vue"
-import Form from "@/components/Form.vue"
 import Contacto from "@/components/Contacto.vue"
 import recomendacion from "@/components/recomendacion.vue"
-import whatssap from "@/components/whatssap.vue"
+import Precios from "@/components/Precios.vue"
 import Footer from "@/components/Footer.vue"
 
 </script>
